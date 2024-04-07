@@ -34,7 +34,7 @@ Name: Vinush.cv
 
 reg no: 212222230176
 
-## Program Controller:
+## Program :
 ```c#
 using System.Collections;
 using System.Collections.Generic;
