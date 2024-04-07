@@ -33,7 +33,6 @@ Step 6: Edit their speed values and test to see how it looks. Drag all three ani
 Developed by: Vinush.cv
 
 Reg no: 212222230176
-## Program
 
 ## Player Controller:
 ```c#
