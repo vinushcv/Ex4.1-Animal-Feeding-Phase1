@@ -30,9 +30,12 @@ Step 5: Select all three animals in the hierarchy and Add Component > Drag the M
 Step 6: Edit their speed values and test to see how it looks. Drag all three animals into the Prefabs folder, choosing “Original Prefab”
 
 ## Program:
-Name: Vinush.cv
+Developed by: Vinush.cv
 
-reg no: 212222230176
+Reg no: 212222230176
+## Program
+
+## Player Controller:
 ```c#
 using System.Collections;
 using System.Collections.Generic;
@@ -69,7 +72,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 }
-
+```
 ## Move Forward:
 
 ```c# 
